@@ -7,4 +7,7 @@ microRTS is a small implementation of an RTS game, designed to perform AI resear
 #a bot for microRts competition 
 (https://sites.google.com/site/micrortsaicompetition/introduction?authuser=0)
 https://sites.google.com/site/micrortsaicompetition/introduction?authuser=0 https://github.com/santiontanon/microrts
+
+To get it working, use the command "java -jar microRTS.jar"
+
 ![game](https://github.com/Winchester260/WinchBot-MicroRTS/assets/106346947/c6d61d50-ede6-45b4-afc9-c2b9e776e3e3)
